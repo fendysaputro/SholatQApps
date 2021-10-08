@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SholatQApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyDCdzyIfI3MRh9lBk9Qjx8Xo5kt-3XSeh4</string>
+
+    <string-array name="riwayat_array">
+        <item>abu-daud</item>
+        <item>ahmad</item>
+        <item>bukhari</item>
+        <item>darimi</item>
+        <item>ibnu-majah</item>
+        <item>malik</item>
+        <item>muslim</item>
+        <item>nasai</item>
+        <item>tirmidzi</item>
+    </string-array>
+
+</resources>
